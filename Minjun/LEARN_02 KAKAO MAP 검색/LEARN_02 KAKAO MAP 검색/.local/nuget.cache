@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o0hrJ/2BS7TK6wdNaZiBYm27Bz6gvHTHcHhu1NIjVv+i5OhmB9z/4fxvMvVU3hTISoQZ7giq1HJW6pGz76AlQ==",
+  "dgSpecHash": "an767zfMVHFldwPbuKgl46VVTOIMpZGInuw4P2oGX9YiufieUf1R+hUmY9LANyduwcbZMym8i132dc/TE9qq9g==",
   "success": true,
-  "projectFilePath": "D:\\Uipath 실습과제\\02) 과제 코드\\01) 下級\\LEARN_02 KAKAO MAP 검색\\LEARN_02 KAKAO MAP 검색\\.local\\",
+  "projectFilePath": "D:\\Minjun_git\\SICT_GIt\\Minjun\\LEARN_02 KAKAO MAP 검색\\LEARN_02 KAKAO MAP 검색\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\1020a\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\1020a\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
