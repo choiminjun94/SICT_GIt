@@ -2,6 +2,36 @@
   "Packages": [
     {
       "Package": {
+        "Id": "BalaReva.EasyExcel.Activities",
+        "Version": "29.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities/29.1.1\\lib/BalaReva.EasyExcel.Design.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities/29.1.1\\lib/BalaReva.EasyExcel.Utilities.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities/29.1.1\\lib/BalaReva.EasyExcel.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
+      ],
+      "Path": "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities\\29.1.1"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.Excel.Activities",
+        "Version": "2021.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.Base.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.Design.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.Utilities.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
+      ],
+      "Path": "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities\\2021.0.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.11.4"
       },
@@ -182,6 +212,38 @@
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "BalaReva.EasyExcel.Activities": {
+      "Id": "BalaReva.EasyExcel.Activities",
+      "Version": "29.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Office.Interop.Excel",
+          "Item2": "[15.0.4795.1000, )"
+        },
+        {
+          "Item1": "MicrosoftOfficeCore",
+          "Item2": "[15.0.0, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "BalaReva.Excel.Activities": {
+      "Id": "BalaReva.Excel.Activities",
+      "Version": "2021.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Office.Interop.Excel",
+          "Item2": "[15.0.4795.1000, )"
+        },
+        {
+          "Item1": "MicrosoftOfficeCore",
+          "Item2": "[15.0.0, )"
+        }
+      ]
+    },
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.87.1",
@@ -662,6 +724,11 @@
         }
       ]
     },
+    "Microsoft.Office.Interop.Excel": {
+      "Id": "Microsoft.Office.Interop.Excel",
+      "Version": "15.0.4795.1000",
+      "Dependencies": []
+    },
     "Microsoft.Rest.ClientRuntime": {
       "Id": "Microsoft.Rest.ClientRuntime",
       "Version": "2.3.21",
@@ -700,6 +767,11 @@
           "Item2": "[4.6.0, )"
         }
       ]
+    },
+    "MicrosoftOfficeCore": {
+      "Id": "MicrosoftOfficeCore",
+      "Version": "15.0.0",
+      "Dependencies": []
     },
     "MimeKit": {
       "Id": "MimeKit",
@@ -1351,6 +1423,31 @@
   "AllPackages": [
     {
       "Package": {
+        "Id": "BalaReva.EasyExcel.Activities",
+        "Version": "29.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities\\29.1.1\\lib\\BalaReva.EasyExcel.Design.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities\\29.1.1\\lib\\BalaReva.EasyExcel.Utilities.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities\\29.1.1\\lib\\BalaReva.EasyExcel.dll"
+      ],
+      "Path": "C:\\Users\\1020a\\.nuget\\packages\\balareva.easyexcel.activities\\29.1.1"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.Excel.Activities",
+        "Version": "2021.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.Base.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.Design.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.Utilities.dll",
+        "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.dll"
+      ],
+      "Path": "C:\\Users\\1020a\\.nuget\\packages\\balareva.excel.activities\\2021.0.0"
+    },
+    {
+      "Package": {
         "Id": "ClosedXML",
         "Version": "0.87.1"
       },
@@ -1732,6 +1829,16 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.Office.Interop.Excel",
+        "Version": "15.0.4795.1000"
+      },
+      "Assemblies": [
+        "C:\\Users\\1020a\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\lib\\net20\\Microsoft.Office.Interop.Excel.dll"
+      ],
+      "Path": "C:\\Users\\1020a\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.Rest.ClientRuntime",
         "Version": "2.3.21"
       },
@@ -1779,6 +1886,16 @@
       },
       "Assemblies": [],
       "Path": "C:\\Users\\1020a\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.17763.1000"
+    },
+    {
+      "Package": {
+        "Id": "MicrosoftOfficeCore",
+        "Version": "15.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\1020a\\.nuget\\packages\\microsoftofficecore\\15.0.0\\lib\\net35\\Office.dll"
+      ],
+      "Path": "C:\\Users\\1020a\\.nuget\\packages\\microsoftofficecore\\15.0.0"
     },
     {
       "Package": {

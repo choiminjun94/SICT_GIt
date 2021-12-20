@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeZn9YtHRODpIJn30VSIBqLYvYF8thDGJWUaS6b2kU4V14+8SQOSuKsax3a04e8BqOMUhdJhwqD1GOsPZZdylQ==",
+  "dgSpecHash": "t0WuvJwS1Xewnm7YwKznQuAYFfGWkZaAc7hBzLvCVzB2CgRjICP1BpsSwQXk9aT+oeR+PrUdSPgG9jHF+wJ4zg==",
   "success": true,
-  "projectFilePath": "D:\\Uipath 실습과제\\02) 과제 코드\\01) 下級\\LEARN_03 Naver 증권 정보 수집\\.local\\",
+  "projectFilePath": "C:\\Users\\1020a\\OneDrive\\문서\\UiPath\\Minjun_git\\SICT_GIt\\Minjun\\LEARN_03 Naver 증권 정보 수집\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\1020a\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\1020a\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
