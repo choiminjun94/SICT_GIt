@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2frCm+0MQ0cj9G1+1uzHav7uWNKHXTEsW2xfGgg7555Vw3O6qN4TZPhPtzAgMfzqRstejT46eMKqGXSyJ4lBg==",
+  "dgSpecHash": "dXks2KEaBct/eGRrwayv0qT75g/trdpIcPdigNqeX2WGxogYMouTP0Phn1gEUrAQrwlSmcOmbrvRileKE5E9gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1020a\\OneDrive\\문서\\UiPath\\SICT_GIt\\Minjun\\02_기타과제\\구구단\\.local\\",
+  "projectFilePath": "C:\\Users\\1020a\\OneDrive\\문서\\UiPath\\나라장터\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\1020a\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\1020a\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
