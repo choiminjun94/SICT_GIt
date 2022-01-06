@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXks2KEaBct/eGRrwayv0qT75g/trdpIcPdigNqeX2WGxogYMouTP0Phn1gEUrAQrwlSmcOmbrvRileKE5E9gA==",
+  "dgSpecHash": "Thf8rVCwffWvN7VRXXMNMMI62AjehjV+oAKIXxN8eUzLUwFbR7ual/j/DPGgEOSAOjNWerW8J74NUC4fQeJbYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1020a\\OneDrive\\문서\\UiPath\\나라장터\\.local\\",
+  "projectFilePath": "C:\\Users\\1020a\\OneDrive\\문서\\UiPath\\SICT_GIt\\Minjun\\01_실습과제\\나라장터\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\1020a\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\1020a\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
